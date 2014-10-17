@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swo:home|Door43 (swo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swo|d43-swo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swo/archive/master.zip|d43-swo.zip]]
+
+**Recent Changes**
+{{changes>ns = swo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swo|Ethnologue data]]
+
